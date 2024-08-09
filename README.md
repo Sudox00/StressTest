@@ -13,3 +13,6 @@
 > sudo dnf install git-all
 >
 > git clone https://github.com/Sudox00/StressTest.git
+
+## Запуск
+>java -jar StressTest.jar
