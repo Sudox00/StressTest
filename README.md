@@ -13,6 +13,11 @@
 > sudo dnf install git-all
 >
 > git clone https://github.com/Sudox00/StressTest.git
-
++ Arch Linux 
+> sudo pacman -S jre-openjdk
+>
+> sudo pacman -S git
+>
+> git clone https://github.com/Sudox00/StressTest.git
 ## Запуск
 >java -jar StressTest.jar
