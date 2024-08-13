@@ -21,3 +21,6 @@
 > git clone https://github.com/Sudox00/StressTest.git
 ## Запуск
 >java -jar StressTest.jar
+## Ошибки
++ java.lang.UnsupportedClassVersionError...
+> Обновите версию Java -> sudo apt install openjdk-17-jre
